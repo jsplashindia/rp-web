@@ -3,7 +3,7 @@
     <title>rhythm-pad</title>
     <link href="http://rhythmpad.com/feed.xml" rel="self" />
     <link href="http://rhythmpad.com" />
-    <updated>2018-04-07T13:14:41+05:30</updated>
+    <updated>2018-04-07T13:23:23+05:30</updated>
     <author>
         <name>BT</name>
     </author>
@@ -274,7 +274,7 @@ $.getJSON(playListURL, function(data) {
         <link href="http://rhythmpad.com/contact-us.html"/>
         <id>http://rhythmpad.com/contact-us.html</id>
 
-        <updated>2018-04-07T13:14:35+05:30</updated>
+        <updated>2018-04-07T13:23:17+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -284,7 +284,7 @@ $.getJSON(playListURL, function(data) {
 </div>
 <div id="container" class="container">
 <h3>To Book Us or Gig with Us, WRITE TO US.</h3>
-<p id="alertLabel" class="msg msg--info" style="display: none; color: red;">Please Note: Kindly fill all the fields to submit the form.</p>
+<p id="alertLabel" class="msg msg--highlight " style="display: none; color: red;">Please Note: Kindly fill all the fields to submit the form.</p>
 <form action="https://telegram-bots-5ac3e.firebaseapp.com/email-rp" method="post" name="contactForm">
 <p><label for="name">Name</label> <br><input id="name" style="width: 100%;" name="name" type="text" placeholder="Your name.."></p>
 <p><label for="email">Email<br></label> <input id="email" style="width: 100%;" name="email" type="text" placeholder="Your email.."></p>
