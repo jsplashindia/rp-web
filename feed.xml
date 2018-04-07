@@ -3,7 +3,7 @@
     <title>rhythm-pad</title>
     <link href="http://rhythmpad.com/feed.xml" rel="self" />
     <link href="http://rhythmpad.com" />
-    <updated>2018-04-07T13:04:54+05:30</updated>
+    <updated>2018-04-07T13:14:41+05:30</updated>
     <author>
         <name>BT</name>
     </author>
@@ -53,11 +53,11 @@
         <link href="http://rhythmpad.com/home.html"/>
         <id>http://rhythmpad.com/home.html</id>
 
-        <updated>2018-04-07T08:50:18+05:30</updated>
+        <updated>2018-04-07T13:11:04+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <h2>Main Features</h2>
+                <h2>MAIN FEATURES</h2>
 <h5>SMART<strong> LEVELS</strong></h5>
 <p>Pads sound louder near the center and softer at the edges. A great equivalent to reproduce touch responsiveness in iPhone, iPod Touch and iPad!</p>
 <h5><strong>SET</strong> LEVELS</h5>
@@ -274,17 +274,17 @@ $.getJSON(playListURL, function(data) {
         <link href="http://rhythmpad.com/contact-us.html"/>
         <id>http://rhythmpad.com/contact-us.html</id>
 
-        <updated>2018-04-07T00:46:27+05:30</updated>
+        <updated>2018-04-07T13:14:35+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <script src="https://www.google.com/recaptcha/api.js"></script>
 <div id="success_msg" style="display: none;">
-<p>Thank you for contacting us. We'll get back to you as soon as we can!</p>
+<p class="msg msg--success">Thank you for contacting us. We'll get back to you as soon as we can!</p>
 </div>
 <div id="container" class="container">
 <h3>To Book Us or Gig with Us, WRITE TO US.</h3>
-<p id="alertLabel" style="display: none; color: red;">Please Note: Kindly fill all the fields to submit the form.</p>
+<p id="alertLabel" class="msg msg--info" style="display: none; color: red;">Please Note: Kindly fill all the fields to submit the form.</p>
 <form action="https://telegram-bots-5ac3e.firebaseapp.com/email-rp" method="post" name="contactForm">
 <p><label for="name">Name</label> <br><input id="name" style="width: 100%;" name="name" type="text" placeholder="Your name.."></p>
 <p><label for="email">Email<br></label> <input id="email" style="width: 100%;" name="email" type="text" placeholder="Your email.."></p>
