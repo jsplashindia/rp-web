@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>rhythm-pad</title>
-    <link href="http://rhythmpad.com/feed.xml" rel="self" />
-    <link href="http://rhythmpad.com" />
-    <updated>2018-04-08T17:09:59+05:30</updated>
+    <link href="https://rhythmpad.com/feed.xml" rel="self" />
+    <link href="https://rhythmpad.com" />
+    <updated>2018-04-08T17:14:49+05:30</updated>
     <author>
         <name>BT</name>
     </author>
-    <id>http://rhythmpad.com</id>
+    <id>https://rhythmpad.com</id>
 
     <entry>
         <title>Privacy Policy</title>
         <author>
             <name>BT</name>
         </author>
-        <link href="http://rhythmpad.com/privacy-policy.html"/>
-        <id>http://rhythmpad.com/privacy-policy.html</id>
+        <link href="https://rhythmpad.com/privacy-policy.html"/>
+        <id>https://rhythmpad.com/privacy-policy.html</id>
 
         <updated>2018-04-07T12:21:52+05:30</updated>
             <summary></summary>
@@ -50,15 +50,15 @@
         <author>
             <name>BT</name>
         </author>
-        <link href="http://rhythmpad.com/home.html"/>
-        <id>http://rhythmpad.com/home.html</id>
+        <link href="https://rhythmpad.com/home.html"/>
+        <id>https://rhythmpad.com/home.html</id>
 
         <updated>2018-04-07T21:18:32+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://itunes.apple.com/app/rhythm-pad/id504321020?mt=8" target="_blank" rel="noopener noreferrer"><img style="padding-right: 10px; padding-left: 0px;" src="http://rhythmpad.com/media/posts/7/rhythmpad_icon.png" alt="Rhythm Pad App Icon" width="40" height="40"></a> <strong><a href="https://itunes.apple.com/app/rhythm-pad/id504321020?mt=8" target="_blank" rel="noopener noreferrer">Download Rhythm Pad on the App Store </a></strong><a href="https://itunes.apple.com/app/rhythm-pad/id504321020?mt=8" target="_blank" rel="noopener noreferrer">[Free]</a> </p>
-<p><a href="https://itunes.apple.com/app/rhythm-pad-pro/id457863522?mt=8" target="_blank" rel="noopener noreferrer"><img style="padding-right: 10px;" src="http://rhythmpad.com/media/posts/7/rhythmpadpro_icon.png" alt="Rhythm Pad Pro App Icon" width="40" height="40"></a> <a href="https://itunes.apple.com/app/rhythm-pad-pro/id457863522?mt=8" target="_blank" rel="noopener noreferrer"><strong>Download Rhythm Pad Pro on the App Store</strong> [$2.99]</a></p>
+                <p><a href="https://itunes.apple.com/app/rhythm-pad/id504321020?mt=8" target="_blank" rel="noopener noreferrer"><img style="padding-right: 10px; padding-left: 0px;" src="https://rhythmpad.com/media/posts/7/rhythmpad_icon.png" alt="Rhythm Pad App Icon" width="40" height="40"></a> <strong><a href="https://itunes.apple.com/app/rhythm-pad/id504321020?mt=8" target="_blank" rel="noopener noreferrer">Download Rhythm Pad on the App Store </a></strong><a href="https://itunes.apple.com/app/rhythm-pad/id504321020?mt=8" target="_blank" rel="noopener noreferrer">[Free]</a> </p>
+<p><a href="https://itunes.apple.com/app/rhythm-pad-pro/id457863522?mt=8" target="_blank" rel="noopener noreferrer"><img style="padding-right: 10px;" src="https://rhythmpad.com/media/posts/7/rhythmpadpro_icon.png" alt="Rhythm Pad Pro App Icon" width="40" height="40"></a> <a href="https://itunes.apple.com/app/rhythm-pad-pro/id457863522?mt=8" target="_blank" rel="noopener noreferrer"><strong>Download Rhythm Pad Pro on the App Store</strong> [$2.99]</a></p>
 <h2>MAIN FEATURES</h2>
 <h5>SMART<strong> LEVELS</strong></h5>
 <p>Pads sound louder near the center and softer at the edges. A great equivalent to reproduce touch responsiveness in iPhone, iPod Touch and iPad!</p>
@@ -113,8 +113,8 @@ $.getJSON(playListURL, function(data) {
         <author>
             <name>BT</name>
         </author>
-        <link href="http://rhythmpad.com/videos.html"/>
-        <id>http://rhythmpad.com/videos.html</id>
+        <link href="https://rhythmpad.com/videos.html"/>
+        <id>https://rhythmpad.com/videos.html</id>
 
         <updated>2018-04-06T17:40:47+05:30</updated>
             <summary></summary>
@@ -164,8 +164,8 @@ $.getJSON(playListURL, function(data) {
         <author>
             <name>BT</name>
         </author>
-        <link href="http://rhythmpad.com/features.html"/>
-        <id>http://rhythmpad.com/features.html</id>
+        <link href="https://rhythmpad.com/features.html"/>
+        <id>https://rhythmpad.com/features.html</id>
 
         <updated>2018-04-06T13:28:16+05:30</updated>
             <summary></summary>
@@ -220,8 +220,8 @@ $.getJSON(playListURL, function(data) {
         <author>
             <name>BT</name>
         </author>
-        <link href="http://rhythmpad.com/support.html"/>
-        <id>http://rhythmpad.com/support.html</id>
+        <link href="https://rhythmpad.com/support.html"/>
+        <id>https://rhythmpad.com/support.html</id>
 
         <updated>2018-04-05T15:15:28+05:30</updated>
             <summary></summary>
@@ -235,7 +235,7 @@ $.getJSON(playListURL, function(data) {
 <p>If you find the notifications from Rhythm Pad to be more annoying than useful, this is what you need to do: Open up <strong>Settings</strong>. Select <strong>Notifications</strong>. Select Rhythm Pad from the list under the section, In<strong> Notification Center</strong> and flip the <strong>Notification Center</strong> toggle to <strong>Off</strong>.</p>
 <h4><strong>I have no sound</strong></h4>
 <p>This is rare, but if this occurs, try restarting the app. Please check if your main volume is muted. If you are an iPhone user, please try toggling the side switch. Try raising the volume.</p>
-<p><img style="float: right; margin: 15px;" src="http://rhythmpad.com/media/posts/3/IMG_0588.jpg" alt="" width="271" height="391"></p>
+<p><img style="float: right; margin: 15px;" src="https://rhythmpad.com/media/posts/3/IMG_0588.jpg" alt="" width="271" height="391"></p>
 <p>The iPad has an interesting mute quirk, which can result in no sound coming from certain apps over your iPad speaker, even though volume is turned up and you can hear the sound with headphones. In order to fix this, you need to follow the instructions below:</p>
 <ul>
 <li>Swipe up from bottom to bring the control center</li>
@@ -255,8 +255,8 @@ $.getJSON(playListURL, function(data) {
         <author>
             <name>BT</name>
         </author>
-        <link href="http://rhythmpad.com/press-kit.html"/>
-        <id>http://rhythmpad.com/press-kit.html</id>
+        <link href="https://rhythmpad.com/press-kit.html"/>
+        <id>https://rhythmpad.com/press-kit.html</id>
 
         <updated>2018-04-06T17:15:01+05:30</updated>
             <summary></summary>
@@ -273,8 +273,8 @@ $.getJSON(playListURL, function(data) {
         <author>
             <name>BT</name>
         </author>
-        <link href="http://rhythmpad.com/contact-us.html"/>
-        <id>http://rhythmpad.com/contact-us.html</id>
+        <link href="https://rhythmpad.com/contact-us.html"/>
+        <id>https://rhythmpad.com/contact-us.html</id>
 
         <updated>2018-04-07T13:23:17+05:30</updated>
             <summary></summary>
