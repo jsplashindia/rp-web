@@ -3,7 +3,7 @@
     <title>rhythm-pad</title>
     <link href="https://rhythmpad.com/feed.xml" rel="self" />
     <link href="https://rhythmpad.com" />
-    <updated>2018-04-08T19:37:13+05:30</updated>
+    <updated>2018-04-09T00:05:44+05:30</updated>
     <author>
         <name>BT</name>
     </author>
@@ -167,7 +167,7 @@ $.getJSON(playListURL, function(data) {
         <link href="https://rhythmpad.com/features.html"/>
         <id>https://rhythmpad.com/features.html</id>
 
-        <updated>2018-04-08T19:12:54+05:30</updated>
+        <updated>2018-04-08T19:48:33+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -208,7 +208,7 @@ $.getJSON(playListURL, function(data) {
 <h5><strong>MIDI SUPPORT</strong></h5>
 <p>Sends MIDI via WiFi or Camera Connection Kit allowing you to use Rhythm Pad<sup>®</sup> as a MIDI controller. While sending MIDI signals, drums are mapped based on General MIDI standard.</p>
 <p>Here's a video showing detailed instructions on sending MIDI from Rhythm Pad<sup>®</sup> to Garageband:</p>
-<p><iframe width="560" height="315" src="http://www.youtube.com/embed/xx9HYK_xzPU?rel=0" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/xx9HYK_xzPU?rel=0" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <a id="audiobus"></a>
 <h5><strong>AUDIOBUS</strong></h5>
 <p>Stream live audio directly to other Audiobus-compatible apps! See <a href="http://audiob.us/" target="_blank" sl-processed="1" rel="noopener noreferrer">http://audiob.us</a> for more information.</p>
