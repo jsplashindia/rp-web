@@ -3,16 +3,16 @@
     <title>rhythm-pad</title>
     <link href="https://rhythmpad.com/feed.xml" rel="self" />
     <link href="https://rhythmpad.com" />
-    <updated>2018-04-09T00:05:44+05:30</updated>
+    <updated>2018-04-17T22:37:39+05:30</updated>
     <author>
-        <name>BT</name>
+        <name>Rhythm Pad</name>
     </author>
     <id>https://rhythmpad.com</id>
 
     <entry>
         <title>Privacy Policy</title>
         <author>
-            <name>BT</name>
+            <name>Rhythm Pad</name>
         </author>
         <link href="https://rhythmpad.com/privacy-policy.html"/>
         <id>https://rhythmpad.com/privacy-policy.html</id>
@@ -48,7 +48,7 @@
     <entry>
         <title>Home</title>
         <author>
-            <name>BT</name>
+            <name>Rhythm Pad</name>
         </author>
         <link href="https://rhythmpad.com/home.html"/>
         <id>https://rhythmpad.com/home.html</id>
@@ -111,7 +111,7 @@ $.getJSON(playListURL, function(data) {
     <entry>
         <title>Videos</title>
         <author>
-            <name>BT</name>
+            <name>Rhythm Pad</name>
         </author>
         <link href="https://rhythmpad.com/videos.html"/>
         <id>https://rhythmpad.com/videos.html</id>
@@ -162,7 +162,7 @@ $.getJSON(playListURL, function(data) {
     <entry>
         <title>Features</title>
         <author>
-            <name>BT</name>
+            <name>Rhythm Pad</name>
         </author>
         <link href="https://rhythmpad.com/features.html"/>
         <id>https://rhythmpad.com/features.html</id>
@@ -218,7 +218,7 @@ $.getJSON(playListURL, function(data) {
     <entry>
         <title>Support / FAQ</title>
         <author>
-            <name>BT</name>
+            <name>Rhythm Pad</name>
         </author>
         <link href="https://rhythmpad.com/support.html"/>
         <id>https://rhythmpad.com/support.html</id>
@@ -253,7 +253,7 @@ $.getJSON(playListURL, function(data) {
     <entry>
         <title>Press Kit</title>
         <author>
-            <name>BT</name>
+            <name>Rhythm Pad</name>
         </author>
         <link href="https://rhythmpad.com/press-kit.html"/>
         <id>https://rhythmpad.com/press-kit.html</id>
@@ -271,7 +271,7 @@ $.getJSON(playListURL, function(data) {
     <entry>
         <title>Contact Us</title>
         <author>
-            <name>BT</name>
+            <name>Rhythm Pad</name>
         </author>
         <link href="https://rhythmpad.com/contact-us.html"/>
         <id>https://rhythmpad.com/contact-us.html</id>
