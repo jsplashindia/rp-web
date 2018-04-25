@@ -3,7 +3,7 @@
     <title>rhythm-pad</title>
     <link href="https://rhythmpad.com/feed.xml" rel="self" />
     <link href="https://rhythmpad.com" />
-    <updated>2018-04-17T22:37:39+05:30</updated>
+    <updated>2018-04-25T18:14:55+05:30</updated>
     <author>
         <name>Rhythm Pad</name>
     </author>
@@ -223,7 +223,7 @@ $.getJSON(playListURL, function(data) {
         <link href="https://rhythmpad.com/support.html"/>
         <id>https://rhythmpad.com/support.html</id>
 
-        <updated>2018-04-08T19:13:24+05:30</updated>
+        <updated>2018-04-25T18:14:46+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -233,6 +233,7 @@ $.getJSON(playListURL, function(data) {
 <p>Rhythm Pad<sup>®</sup> 4 and later includes a host of new additions including extreme low-latency response, Audiobus support, AudioCopy support, MIDI over WiFi and more.</p>
 <h4><strong>How do I turn off push notifications?</strong></h4>
 <p>If you find the notifications from Rhythm Pad<sup>®</sup> to be more annoying than useful, this is what you need to do: Open up <strong>Settings</strong>. Select <strong>Notifications</strong>. Select Rhythm Pad from the list under the section, In<strong> Notification Center</strong> and flip the <strong>Notification Center</strong> toggle to <strong>Off</strong>.</p>
+<a id="no_sound"></a>
 <h4><strong>I have no sound</strong></h4>
 <p>This is rare, but if this occurs, try restarting the app. Please check if your main volume is muted. If you are an iPhone user, please try toggling the side switch. Try raising the volume.</p>
 <p><img style="float: right; margin: 15px;" src="https://rhythmpad.com/media/posts/3/IMG_0588.jpg" alt="" width="271" height="391"></p>
